@@ -1,1 +1,155 @@
 ![Perfil](https://github.com/GabrielPassarinVicente/Curriculo/assets/112556559/a1402c97-a59d-4739-b49f-c3a1505be904)
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>currículo - Gabriel Passarin Vicente</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="https://github.com/GabrielPassarinVicente/Curriculo/assets/112556559/a1402c97-a59d-4739-b49f-c3a1505be904" alt="Gabriel Passarin Vicente" class="profile-image">
+        <h1>Gabriel Passarin Vicente</h1> 
+        <p>Analista de Sistemas</p>
+        <p>Rolândia, Paraná, Brasil</p>
+    </header>
+    
+
+    <section class="summary">
+        <h1>Resumo</h1>
+        <p>Sou um Analista de Sistemas altamente motivado, com experiência em desenvolvimento de software e automação. Minha jornada profissional começou como Estagiário de TI, onde adquiri habilidades valiosas em resolução de problemas, manutenção de hardware e sistemas de informações. Avancei para o papel de Analista Desenvolvedor Júnior, onde refinei minhas habilidades em linguagem C# e framework .NET, bem como em SQL 
+        e otimizações em AspNet e Angular.Ao longo da minha carreira, trabalhei em projetos desafiadores, incluindo a participação como desenvolvedor de software trainee, onde fui exposto a diversas tecnologias e metodologias ágeis como Agile e Scrum. Minha capacidade de consumir APIs, gerenciar controle de versão usando Git e GitHub, juntamente com minha experiência em atendimento ao cliente e suporte técnico, me destacam como um profissional versátil e capaz de enfrentar novos desafios com confiança.</p>
+    </section>
+
+    <section class="experience">
+        <h1>Experiência</h1>
+        <ul>
+            <li>
+                <h2>Caviúna Software</h2>
+                <h3>Analista de sistemas</h3>
+                <p>Março de 2024 - o momento (2 meses)</p>
+                <p>Rolândia, Paraná, Brasil</p>
+                
+            </li>
+            <li>
+                <h2>Tata Consultancy Services </h2>
+                <h3>Analista Desenvolvedor Júnior</h3>
+                <p>Julho de 2023 - Fevereiro de 2024 (8 meses)</p>
+                <p>Londrina, Paraná, Brasil</p>
+                
+            
+                <h3>Desenvolvedor de Software Trainee</h3>
+                <p>Julho de 2022 - Julho de 2023 (1 ano 1 mês)</p>
+                <p>Londrina, Paraná, Brasil</p>
+                <p> • Experiência em automação utilizando linguagem C# e framework .Net(Core, Framework 5,6)</p>
+                <p> • SQL Server</p>
+                <p> • Realizo otimizações em AspNet, Angular</p>
+                <p> • Consumo de API</p>
+                <p> • Splunk, Insomnia</p>
+                <p> • Controle de versão usando Git e GitHub</p>
+
+                <h3>Estagiário de desenvolvimento de software</h3>
+                <p>março de 2022 - julho de 2022 (5 meses)</p>
+                <p>Londrina, Paraná, Brasil</p>
+                <p> • Estudos de diversas tecnologias e certificações</p>
+                <p> • Entrega de atividades correspondente as trilhas semanais</p>
+                <p> • Entrega de projeto de conclusão de estagio em grupo (TCE),utilizandometodologia Agile e Scrum - Atividades exercidas : Front-End,Documentação.</p>
+            </li>
+            <li>
+                <h2>Atos</h2>
+                <h3>Analista de Suporte Técnico</h3>
+                <p>Novembro de 2021 - Março de 2022 (5 meses)</p>
+                <p>Londrina, Paraná, Brasil</p>
+                <p>Garantir o bom atendimento aos usuários</p>
+                <p> • Atendimento e tratativa de chamados de help desk</p>
+                <p> • Participar de reuniões de equipe, diariamente, para alinhamento dasatividades</p>
+                <p> • Controle de tickets.</p>
+            </li>
+            <li>
+                <h2>Silomax</h2>
+                <h3>Estagiário de TI</h3>
+                <p>Agosto de 2021 - Novembro de 2021 (4 meses)</p>
+                <p>Rolândia, Paraná, Brazil</p>
+                <p> • Atuar na resolução de problemas e manutenções de hardware</p>
+                <p> • Auxiliar na manutenção de sistemas de informações da empresa</p>
+                <p> • Conhecimentos em redes de computadores e infraestrutura física de TI</p>
+                <p> • Tratativa de chamados.</p>
+            </li>
+            <li>
+                <h2>Pastificio Selmi</h2>
+                <h3> Aprendiz auxiliar administrativo</h3>
+                <p>Abril de 2020 - Março de 2021 (1 ano)</p>
+                <p>Rolândia, Paraná, Brasil</p>
+                <p> • Auxiliar no atendimento ao almoxarifado
+                <p> • Contagem de estoque</p>
+                <p> • Organização e limpeza do almoxarifado</p>
+                <p> • Separação de itens</p>
+            </li>
+            <li>
+                <h2>Americanas</h2>
+                <h3>Auxiliar de loja</h3>
+                <p>Novembro de 2019 - Dezembro de 2019 (2 meses)</p>
+                <p>Rolândia, Paraná, Brasil</p>
+                <p> • Auxiliar no caixa</p>
+                <p> • Auxiliar na reposição e organização.</p>
+            </li>
+            <li>
+                <h2>Supermercado Locatelli</h2>
+                <h3>Empacotador</h3>
+                <p>Março de 2019 - Outubro de 2019 (8 meses)</p>
+                <p>Rolândia, Paraná, Brasil</p>
+                <p> • Embalar compras</p>
+                <p> • Auxiliar o cliente com as compras.</p>
+            </li>
+            <li>
+                <h2>Segundo Tabelionato de Notas </h2>
+                <h3>Estagiário</h3>
+                <p>Setembro de 2017 - Dezembro de 2018 (1 ano 4 meses)</p>
+                <p>Rolândia, Paraná, Brasil</p>
+                <p> • Digitalização de documentos</p>
+                <p> • Separação de documentos</p>
+                <p> • Office Boy</p>
+            </li>
+        </ul>
+    </section>
+
+    <section class="education">
+        <h1>Formação Acadêmica</h1>
+        <h3>Universidade Pitágoras Unopar Anhanguera</h3> <p>
+        <p>Bacharelado - Engenharia da Computação (Agosto de 2019 - Dezembro de 2024)</p>
+        <p>Londrina, Paraná, Brasil</p>
+    </section>
+    <section class="competencia">
+        <h1>Competências</h1>
+        <p> • C#</p>
+        <p> • SQL</p>
+        <p> •.Net</p>
+        <p> • Git</p>
+        <p> • CSS</p>
+        <p> • GitHub</p>
+        <p> • Splunk</p>
+        <p> • HTML5</p>
+        <p> • Insomnia</p>
+        <p> • .Net Core</p>
+        <p> • .Net Framework</p>
+        <p> • Programação orientada a objetos (POO)</p>
+    </section>
+    <section class = "Conhecimentos">
+        <h1>Conhecimentos</h1>
+        <p> • Conhecimentos em Java</p>
+        <p> • Conhecimentos em Phyton</p>
+        <p> • Conhecimentos em Angular</p>
+        <p> • Conhecimentos em AspNet</p>
+
+    </section>
+    <footer>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/gabriel-passarin-vicente-802916197">Gabriel Passarin Vicente</a></p>
+        <p>GitHub: <a href=" https://github.com/GabrielPassarinVicente">Gabriel Passarin Vicente</a></p>
+        <p>Contato: gab.gpv45@gmail.com</p>
+        
+    </footer>
+
+    <script src="index.js"></script>
+</body>
+</html>
